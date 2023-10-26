@@ -1,0 +1,150 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body { 
+	background:aqua;
+	background:url(../recursos/informatica.jpg);
+	background-size:100%;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+	color:brown;
+}
+
+
+/*div {
+	
+	font-size:25px;
+	width:50%;
+	border: 2px solid black;
+	background:lightblue;
+	background:url(../recursos/logo_EST17.jpg);
+	background-repeat:no-repeat;
+	background-position:center;	
+}
+*/
+.trabajos1{
+	
+	font-size:25px;
+	width:50%;
+	border: 2px solid black;
+	background:lightblue;
+	background:url(../recursos/foto1.jpeg);
+	background-repeat:no-repeat;
+	background-position:center;		
+	background-size:80%;
+}
+.trabajos1tv{
+	
+	font-size:25px;
+	width:50%;
+	border: 2px solid black;
+	background:lightblue;
+	background:url(../recursos/foto1tv.jpeg);
+	background-repeat:no-repeat;
+	background-position:center;		
+	background-size:80%;
+}
+.trabajos2{
+	
+	font-size:25px;
+	width:50%;
+	border: 2px solid black;
+	background:lightblue;
+	background:url(../recursos/foto2.jpeg);
+	background-repeat:no-repeat;
+	background-position:center;		
+	background-size:80%;
+}
+
+.trabajos3{
+	
+	font-size:25px;
+	width:50%;
+	border: 2px solid black;
+	background:lightblue;
+	background:url(../recursos/foto3.jpeg);
+	background-repeat:no-repeat;
+	background-position:center;		
+	background-size:80%;
+}
+h1
+{
+	color:Brown;
+}
+
+p{
+	font-family:"Times news roman";
+}
+
+h2{
+	display:inline-block;
+}
+a{
+	font-family:"Times news roman";
+	font-size:15px;
+}
+.trabajos1 a:hover{
+	font-size:25px;
+}
+.trabajos1tv a:hover{
+	font-size:25px;
+}
+.trabajos2 a:hover{
+	font-size:25px;
+}
+.trabajos3 a:hover{
+	font-size:25px;
+}
+
+.iconos:hover{
+	width:60px;
+}
+
+
+.menu {
+	
+	width:100%;
+	background:lightblue;
+	list-style:none;
+	margin:0;
+	padding:0;
+	top:0;
+} 	
+
+.menu li{
+	display:inline-block;
+}
+
+.menu li a {
+	padding:10px 20px;
+	display:inline-block;
+	color:blue;
+}
+.menu li a:hover{
+	background:black;
+	color:white;
+}
+
+
+article {
+	/*position:absolute;*/
+}
+
+aside {
+	text-align:center;
+	width:100px;
+	height:100%;
+	background:lightblue;
+	color:white;
+	position:fixed;
+	top:0px;
+	right:0px;
+}
+
+footer {
+	text-align:center;
+	color:brown;
+	bottom:0;
+}
